@@ -1,6 +1,6 @@
 #!/bin/bash
 DV=1
-FILE_NAME="test_Fig4.txt"
+FILE_NAME="Fig4.txt"
 #gpu
 R_MIN=$((14))
 r=$((16))
