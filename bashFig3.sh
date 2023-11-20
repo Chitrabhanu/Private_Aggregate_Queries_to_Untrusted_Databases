@@ -1,6 +1,6 @@
 #!/bin/bash
 DV=1
-FILE_NAME="test_Fig3.txt"
+FILE_NAME="Fig3.txt"
 #gpu
 P_MIN=$((1))
 P_MAX=$((17))
