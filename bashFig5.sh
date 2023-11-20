@@ -1,6 +1,6 @@
 #!/bin/bash
 DV=1
-FILE_NAME="test_Fig5.txt"
+FILE_NAME="Fig5.txt"
 #gpu
 r=$((18))
 p=$((10))
