@@ -1,6 +1,6 @@
 #!/bin/bash
 DV=1
-FILE_NAME="testFig1.txt"
+FILE_NAME="Fig2.txt"
 #gpu
 R_MIN=$((16))
 R_MAX=$((24))
